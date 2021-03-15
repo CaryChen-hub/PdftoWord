@@ -7,7 +7,7 @@ from pdfminer.pdfminer.pdfpage import PDFPage
 import pandas as pd
 import matplotlib.pyplot as plt
 from io import StringIO
-#author---Cary.Chen
+
 
 #提取pdf文字
 def extract_pdf_content(pdf):
